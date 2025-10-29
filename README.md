@@ -11,7 +11,7 @@ LangGraph와 Anthropic Claude를 활용한 맞춤형 여행 일정 생성 애플
 
 ## 데모 영상
 
-<video src="demo.mp4" controls></video>
+![여행플래너 데모](demo.gif)
 
 실제 사용 예시를 확인하시려면 위 영상을 참고해주세요.
 
